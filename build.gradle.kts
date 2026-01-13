@@ -1,7 +1,6 @@
 plugins {
     id("java")
     id("com.gradleup.shadow") version("9.3.1")
-    id("cl.franciscosolis.blossom-extended") version("1.3.1")
 }
 
 group = "REPLACE_WITH_YOUR_GROUP_ID"
