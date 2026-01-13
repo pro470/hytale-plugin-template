@@ -1,12 +1,12 @@
-package template.mod;
+package your.plugin;
 
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
 import org.checkerframework.checker.nullness.compatqual.NonNullDecl;
 
-public class TemplateMod extends JavaPlugin {
+public class YourPlugin extends JavaPlugin {
 
-    public TemplateMod(@NonNullDecl JavaPluginInit init) {
+    public YourPlugin(@NonNullDecl JavaPluginInit init) {
         super(init);
     }
 

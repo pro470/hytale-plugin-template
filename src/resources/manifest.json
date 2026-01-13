@@ -15,5 +15,5 @@
   "Dependencies": {},
   "OptionalDependencies": {},
   "DisabledByDefault": false,
-  "Main": "template.mod.TemplateMod"
+  "Main": "your.plugin.YourPlugin"
 }
