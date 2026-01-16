@@ -7,7 +7,12 @@ The ``HytaleServer.jar`` dependency should be automatically resolved from your c
 and added to your project as a dependency, done by the ``eu.koboo.pluginmanifest`` gradle-plugin.
 
 ## Useful links:
+- [Hytale Discord](https://discord.gg/hytale)
 - [PluginManifest GitHub](https://github.com/Koboo/hytale-pluginmanifest)
 - [HytaleModding Docs](https://hytalemodding.dev/en/docs)
+- [HytaleModding Discord](https://discord.gg/vg473AehHr)
 - [Curseforge Wiki](https://support.curseforge.com/en/support/solutions/folders/9000202192)
 - [Hytale Server Manual](https://support.hytale.com/hc/en-us/articles/45326769420827-Hytale-Server-Manual)
+- [Hytale modding tutorials by Kaupenjoe](https://www.youtube.com/@ModdingByKaupenjoe/videos)
+- [Hytale modding tutorials by TroubleDEV](https://www.youtube.com/@TroubleDEV)
+- [Hytale tutorials by HytaleGuides (non-official)](https://www.youtube.com/@HytaleGuidesOfficial/videos)
