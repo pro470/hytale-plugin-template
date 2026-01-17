@@ -11,9 +11,19 @@ and added to your project as a dependency, done by the ``eu.koboo.pluginmanifest
 - [PluginManifest GitHub](https://github.com/Koboo/hytale-pluginmanifest)
 - [HytaleModding Docs](https://hytalemodding.dev/en/docs)
 - [HytaleModding Discord](https://discord.gg/vg473AehHr)
+- [HytaleModding Forum](https://forum.hytalemodding.dev/)
 - [Curseforge Wiki](https://support.curseforge.com/en/support/solutions/folders/9000202192)
 - [Hytale Server Manual](https://support.hytale.com/hc/en-us/articles/45326769420827-Hytale-Server-Manual)
 - [Hytale modding tutorials by Kaupenjoe](https://www.youtube.com/@ModdingByKaupenjoe/videos)
 - [Hytale modding tutorials by TroubleDEV](https://www.youtube.com/@TroubleDEV)
 - [Hytale tutorials by HytaleGuides (non-official)](https://www.youtube.com/@HytaleGuidesOfficial/videos)
 - [hytale.game (non-official)](https://hytale.game/en/)
+- [HytaleConverter (non-official)](https://hytale-converter.com/)
+- [UI WYSIWYG Editor by EllieAU](https://hytale.ellie.au/) 
+
+## Tutorials:
+- [Intro to Hytale's Entity-Component-System](https://forum.hytalemodding.dev/d/20-intro-to-hytale-entity-component-system)
+- [Thread Safety: Using world.execute()](https://forum.hytalemodding.dev/d/21-thread-safety-using-worldexecute)
+
+## Advanced Tutorials
+- [Listening to packets](https://forum.hytalemodding.dev/d/17-listening-to-packets)
