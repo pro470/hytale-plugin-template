@@ -27,3 +27,4 @@ and added to your project as a dependency, done by the ``eu.koboo.pluginmanifest
 
 ## Advanced Tutorials
 - [Listening to packets](https://forum.hytalemodding.dev/d/17-listening-to-packets)
+- [Hytale UI Docs](https://github.com/underscore95/hytale-ui-docs/tree/main)
