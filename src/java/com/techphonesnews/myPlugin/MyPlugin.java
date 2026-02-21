@@ -1,4 +1,4 @@
-package eu.koboo.myplugin;
+package com.techphonesnews.myPlugin;
 
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
@@ -19,12 +19,6 @@ public class MyPlugin extends JavaPlugin {
 
     @Override
     protected void start() {
-        // You can disable core plugins here
-        // Uncomment to disable Hytale's Teleport plugin
-        //PluginIdentifier identifier = PluginIdentifier.fromString("Hytale:Teleport");
-        //HytaleServer.get().getPluginManager().unload(identifier);
-        // You can also override previously registered command here,
-        // by registering in "start()" instead of "setup()"
         super.start();
     }
 

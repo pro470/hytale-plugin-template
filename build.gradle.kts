@@ -6,11 +6,11 @@ plugins {
     // JAR files created with shadow have the suffix "-all".
     // So if you build this project with "shadowJar" the JAR file name will be:
     // "hytale-plugin-template-1.0.0-all.jar"
-    id("com.gradleup.shadow") version("9.3.1")
-    id("eu.koboo.pluginmanifest") version("1.0.25")
+    id("com.gradleup.shadow") version ("9.3.1")
+    id("eu.koboo.pluginmanifest") version ("1.0.25")
 }
 
-group = "eu.koboo"
+group = "com.techphonesnews"
 version = "1.0.0"
 
 repositories {
@@ -22,7 +22,7 @@ repositories {
 
 dependencies {
     // Here you can add your own dependencies.
-    //compileOnly("com.hypixel.hytale:Server:2026.01.22-6f8bdbdc4")
+    compileOnly("com.hypixel.hytale:Server:2026.02.17-255364b8e")
 }
 
 pluginManifest {
@@ -30,14 +30,23 @@ pluginManifest {
     // The plugin already does most of the things for us. :)
     // https://github.com/Koboo/hytale-pluginmanifest
 
+    addClientServerDependency = false // Defaults to true
     manifestConfiguration {
-        pluginGroup = "Koboo"
-        pluginName = "TemplatePlugin"
+        pluginGroup = "techphonesnews"
+        pluginName = "myPlugin"
+
+        authors {
+            author {
+                name = "techphonesnews"
+                email = "techphonesnews@gmail.com"
+            }
+        }
+        pluginDependencies {
+        }
     }
 
     runtimeConfiguration {
-        runtimeDirectory = "D:/PluginManifestRuntime"
-//        runtimeDirectory = "run/"
+        runtimeDirectory = "run/"
         isProjectRelative = false
     }
 }
